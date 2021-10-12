@@ -1,4 +1,4 @@
-# Sign-Language-to-Text
+# Sign-Language-to-Text-using-Artificial-Neural-Network
 
 Project converts American sign language to text in realtime. It uses CNN to train the required models for prediction. The dataset is custom made.
 
